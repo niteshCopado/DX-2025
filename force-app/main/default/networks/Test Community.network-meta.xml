@@ -44,7 +44,6 @@
         <loginPageOverrideSetting>Designer</loginPageOverrideSetting>
         <selfRegProfilePageOverrideSetting>Designer</selfRegProfilePageOverrideSetting>
     </networkPageOverrides>
-    <picassoSite>Test_Community1</picassoSite>
     <selfRegistration>false</selfRegistration>
     <sendWelcomeEmail>true</sendWelcomeEmail>
     <siteArchiveStatus>NotArchived</siteArchiveStatus>
