@@ -305,7 +305,7 @@
           "subtitleText" : "Are you ready?",
           "subtitleTextColor" : "rgba(255, 255, 255, 1)",
           "subtitleTextShadowColor" : "rgba(0, 0, 0, 0)",
-          "titleText" : "What can we help you with?",
+          "titleText" : "How can we help you?",
           "titleTextColor" : "rgb(255, 255, 255)",
           "titleTextShadowColor" : "rgba(0, 0, 0, 0.5)",
           "type" : "showSearch"
