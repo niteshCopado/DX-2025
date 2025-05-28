@@ -15,6 +15,13 @@
         <value>asdfadsfasd</value>
     </labels>
     <labels>
+        <fullName>X2nd_Label_from_Prod_USA</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>2nd Label from Prod USA</shortDescription>
+        <value>asdfasdfadsf</value>
+    </labels>
+    <labels>
         <fullName>test</fullName>
         <language>en_US</language>
         <protected>true</protected>
