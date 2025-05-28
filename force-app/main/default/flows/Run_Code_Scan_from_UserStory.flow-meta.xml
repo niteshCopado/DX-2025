@@ -2,7 +2,7 @@
 <Flow xmlns="http://soap.sforce.com/2006/04/metadata">
     <actionCalls>
         <name>Run_Job_Template</name>
-        <label>Run Job Template</label>
+        <label>Run Job Template 1</label>
         <locationX>176</locationX>
         <locationY>278</locationY>
         <actionName>copado__CreateExecution</actionName>
