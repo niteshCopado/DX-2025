@@ -7,4 +7,11 @@
         <shortDescription>Label from Prod USA</shortDescription>
         <value>Label from Prod USA</value>
     </labels>
+    <labels>
+        <fullName>test</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>test</shortDescription>
+        <value>adfad</value>
+    </labels>
 </CustomLabels>
