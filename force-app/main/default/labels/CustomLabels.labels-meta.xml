@@ -8,10 +8,10 @@
         <value>Label from Prod USA</value>
     </labels>
     <labels>
-        <fullName>Test</fullName>
+        <fullName>test</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>Test</shortDescription>
-        <value>Value</value>
+        <shortDescription>test</shortDescription>
+        <value>adfad</value>
     </labels>
 </CustomLabels>
