@@ -7,11 +7,10 @@ public class MySampleClassTest {
         Integer expectedResult = a + b;
         
         Integer actualResult = MySampleClass.addIntegers(a, b);
-        
+        //This is assert
         System.assertEquals(expectedResult, actualResult, 'The sum of integers is not as expected.');
     }
     //comment for Bundle
-//Comment for branch change  adasd
     
     @isTest
     static void testIsStringEmpty() {
