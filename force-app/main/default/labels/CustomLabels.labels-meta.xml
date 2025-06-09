@@ -8,6 +8,13 @@
         <value>Label from Prod USA</value>
     </labels>
     <labels>
+        <fullName>New_label_from_Dev_1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>New label from Dev 1</shortDescription>
+        <value>asdfadsfasd</value>
+    </labels>
+    <labels>
         <fullName>X2nd_Label_from_Prod_USA</fullName>
         <language>en_US</language>
         <protected>true</protected>
