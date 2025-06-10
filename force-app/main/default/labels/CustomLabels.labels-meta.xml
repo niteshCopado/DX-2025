@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
+        <fullName>AR_2_from_DX_Dev_2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>AR 2 from DX Dev 2</shortDescription>
+        <value>AR 2 from DX Dev 2</value>
+    </labels>
+    <labels>
         <fullName>Label_from_Prod_USA</fullName>
         <language>en_US</language>
         <protected>true</protected>
