@@ -8,6 +8,13 @@
         <value>AR 1 from DX Dev 1</value>
     </labels>
     <labels>
+        <fullName>AR_2_from_DX_Dev_1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>AR 2 from DX Dev 1</shortDescription>
+        <value>adfasdfadf</value>
+    </labels>
+    <labels>
         <fullName>AR_2_from_DX_Dev_2</fullName>
         <language>en_US</language>
         <protected>true</protected>
