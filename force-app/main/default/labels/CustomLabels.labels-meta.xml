@@ -36,6 +36,13 @@
         <value>asdfadsfasd</value>
     </labels>
     <labels>
+        <fullName>Test_for_flow_scanner</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Test for flow scanner</shortDescription>
+        <value>adfadsfa</value>
+    </labels>
+    <labels>
         <fullName>X2nd_Label_from_Prod_USA</fullName>
         <language>en_US</language>
         <protected>true</protected>
