@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Flow xmlns="http://soap.sforce.com/2006/04/metadata">
-    <apiVersion>49.0</apiVersion>
+    <actionCalls>
+        <name>log_call</name>
+        <label>log call</label>
+        <locationX>176</locationX>
+        <locationY>134</locationY>
+        <actionName>LogACall</actionName>
+        <actionType>quickAction</actionType>
+        <flowTransactionModel>CurrentTransaction</flowTransactionModel>
+        <nameSegment>LogACall</nameSegment>
+    </actionCalls>
+    <apiVersion>58.0</apiVersion>
     <areMetricsLoggedToDataCloud>false</areMetricsLoggedToDataCloud>
-    <description>This flow demonstrates a violation of the rule &quot;Copy API Name&quot;.</description>
+    <description>This flow demonstrates a violation of the rule &quot;Missing Error Handler&quot;.</description>
     <environments>Default</environments>
-    <interviewLabel>Copy API Name {!$Flow.CurrentDateTime}</interviewLabel>
-    <label>Copy API Name</label>
+    <interviewLabel>Missing Error Handler {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Missing Error Handler</label>
     <processMetadataValues>
         <name>BuilderType</name>
         <value>
@@ -24,23 +34,12 @@
             <stringValue>LightningFlowBuilder</stringValue>
         </value>
     </processMetadataValues>
-    <processType>Flow</processType>
-    <screens>
-        <name>mockscreen</name>
-        <label>mockscreen</label>
-        <locationX>176</locationX>
-        <locationY>134</locationY>
-        <allowBack>true</allowBack>
-        <allowFinish>true</allowFinish>
-        <allowPause>true</allowPause>
-        <showFooter>true</showFooter>
-        <showHeader>true</showHeader>
-    </screens>
+    <processType>AutoLaunchedFlow</processType>
     <start>
         <locationX>50</locationX>
         <locationY>0</locationY>
         <connector>
-            <targetReference>mockscreen</targetReference>
+            <targetReference>log_call</targetReference>
         </connector>
     </start>
     <status>Active</status>
