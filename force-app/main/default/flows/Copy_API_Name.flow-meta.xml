@@ -26,17 +26,6 @@
     </processMetadataValues>
     <processType>Flow</processType>
     <screens>
-        <name>Copy_1_of_mockscreen</name>
-        <label>Copy 1 of mockscreen</label>
-        <locationX>176</locationX>
-        <locationY>242</locationY>
-        <allowBack>true</allowBack>
-        <allowFinish>true</allowFinish>
-        <allowPause>true</allowPause>
-        <showFooter>true</showFooter>
-        <showHeader>true</showHeader>
-    </screens>
-    <screens>
         <name>mockscreen</name>
         <label>mockscreen</label>
         <locationX>176</locationX>
@@ -44,9 +33,6 @@
         <allowBack>true</allowBack>
         <allowFinish>true</allowFinish>
         <allowPause>true</allowPause>
-        <connector>
-            <targetReference>Copy_1_of_mockscreen</targetReference>
-        </connector>
         <showFooter>true</showFooter>
         <showHeader>true</showHeader>
     </screens>
