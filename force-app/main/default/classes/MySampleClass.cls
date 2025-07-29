@@ -8,4 +8,7 @@ public class MySampleClass {
     public static Boolean isStringEmpty(String str) {
         return String.isBlank(str);
     }
+public static Boolean isStringEmpty(String str) {
+        return String.isBlank(str);
+    }
 }
