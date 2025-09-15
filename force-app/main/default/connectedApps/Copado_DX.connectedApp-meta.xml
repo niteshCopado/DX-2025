@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>nnatha@copado.com</contactEmail>
+    <label>Copado DX</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIIC8TCCAdkCFBabBwnU2laa93bQqxWf43anQlm3MA0GCSqGSIb3DQEBCwUAMDQxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZDb3BhZG8xFDASBgNVBAMMC3d3dy5jb3BhLmRvMCAXDTI0MDcwNTEyMDE1NloYDzIxMzQwMTEwMTIwMTU2WjA0MQswCQYDVQQGEwJVUzEPMA0GA1UECgwGQ29wYWRvMRQwEgYDVQQDDAt3d3cuY29wYS5kbzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAPYU5XABxaQfFJCSTltEBumCsgF8oilDm5PJ/lfuy3bH7f92dwuwcWvfhON2wEPbvo5zeDPKuFr+SMOA9Rnjkfjwj/1qkN3p5usXSltbDcMQRFTBzUQJlSjhLU6xucUGk8CkJi48EHYnC2y7lMzWvhoecib+1+FLA/30B6cDZFwfO3z4fdNqk9TtCOM+Ht1mRBRLys0sjMIg30SzKWZK1cVHahJ9IpJcYjROjMsKerUcqPQQxFxms9atavC/Rju4DXaUZJimB/mpClrnsW9XpNikNoXg3xinlgD2+DKxmOfGfwcPvu/upMvq9E2q60EaBct2SnHqJDJazoa5x8VH11ECAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAbSt2lU0y0K9KSfTJoQmpEIRNmGZlFyzNUlANFf5eOYIRCtov4/Gr7mdLnPCkaYHrRuNbOPwYwTeNfBMxN5OHqL2+WcYkLora1CY2DizJF9R1BiZ1OLQFkOrcGCgz0120pmPo89TWPMob8BpisWl4S2ydmnB6GxM8vtY7rGTtZvwugrhAceJyX8L0AuKtGVPGuxWpMbR4qGgXXTKXEDYD8RsZuYCK74mPdBWbeBdm/IbKDFQaVcWyEhz1870TemRxQxtLRZQvd9TDzU549TKRRgKrRPnUVORhm+4G3P76agiRYptq9aXR1qzzxjHP4ouCzigPiOu5OAwOhEZv72LCCQ==</certificate>
+        <consumerKey>a11b577f28c94e78b81c317f8393ed9bd781537a545747819f1a9393227bc2a1</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <isClientCredentialEnabled>false</isClientCredentialEnabled>
+        <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
+        <isCodeCredentialPostOnly>false</isCodeCredentialPostOnly>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isNamedUserJwtEnabled>false</isNamedUserJwtEnabled>
+        <isPkceRequired>false</isPkceRequired>
+        <isRefreshTokenRotationEnabled>false</isRefreshTokenRotationEnabled>
+        <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+        <isSecretRequiredForTokenExchange>false</isSecretRequiredForTokenExchange>
+        <isTokenExchangeEnabled>false</isTokenExchangeEnabled>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>ENFORCE</ipRelaxation>
+        <isTokenExchangeFlowEnabled>false</isTokenExchangeFlowEnabled>
+        <refreshTokenPolicy>infinite</refreshTokenPolicy>
+    </oauthPolicy>
+</ConnectedApp>
