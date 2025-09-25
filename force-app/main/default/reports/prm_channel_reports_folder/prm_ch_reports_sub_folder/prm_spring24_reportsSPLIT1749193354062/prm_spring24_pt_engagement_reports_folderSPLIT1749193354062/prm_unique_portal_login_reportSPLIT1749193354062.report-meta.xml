@@ -18,6 +18,7 @@
             <operator>equals</operator>
             <value>P</value>
         </criteriaItems>
+        <language>en_US</language>
     </filter>
     <format>Tabular</format>
     <name>Last Logins by Partner Across All Sites</name>
