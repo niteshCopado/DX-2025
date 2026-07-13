@@ -22,6 +22,20 @@
         <value>adfasdfaadfasdf</value>
     </labels>
     <labels>
+        <fullName>July1FirstDev</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>July1FirstDev</shortDescription>
+        <value>adfasdf</value>
+    </labels>
+    <labels>
+        <fullName>Jun30FromDx1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Jun30FromDx1</shortDescription>
+        <value>adfasdf</value>
+    </labels>
+    <labels>
         <fullName>Label_from_Prod_USA</fullName>
         <language>en_US</language>
         <protected>true</protected>
@@ -34,6 +48,13 @@
         <protected>true</protected>
         <shortDescription>New label from Dev 1</shortDescription>
         <value>asdfadsfasd</value>
+    </labels>
+    <labels>
+        <fullName>Test_for_flow_scanner</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Test for flow scanner</shortDescription>
+        <value>adfadsfa</value>
     </labels>
     <labels>
         <fullName>X2nd_Label_from_Prod_USA</fullName>
